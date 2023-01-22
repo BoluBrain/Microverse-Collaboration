@@ -1,0 +1,22 @@
+#main {
+    height:700px;
+    display: flex;
+    color: white;
+    font-size: 1.5em;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    padding: 50px;
+}
+body{
+    background-color: rgb(39, 18, 18);
+}
+#image{
+
+
+    max-width: 50%;
+    max-height: 50%;
+}
+#tribute-link{
+    align-self: flex-end;
+}
